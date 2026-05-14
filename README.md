@@ -8,3 +8,6 @@ This repository contains my personal GitHub project created for practicing versi
 - Cloning repositories
 - Editing README files
 - Git commit and push workflow.
+- This file was locally edited by Git Bash.
+-This file was edited locally
+- README updated locally using git.
