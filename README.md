@@ -7,4 +7,4 @@ This repository contains my personal GitHub project created for practicing versi
 - GitHub repository creation
 - Cloning repositories
 - Editing README files
-- Git commit and push workflow
+- Git commit and push workflow.
